@@ -5,4 +5,5 @@ Git のテスト用テキストです。
 ・git add
 ・git commit
 ・復讐のためにもう 1 行追加しました。
+・git rm
 
